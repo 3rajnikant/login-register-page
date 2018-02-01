@@ -66,6 +66,7 @@
 				            <li class="page-scroll" id="text1">
 				                <a href="#page-top" id="text1">Register</a>
 				            </li>
+				            <li></li>
 				        </ul>
 				    </div>
 			    </div>
